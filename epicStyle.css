@@ -269,6 +269,11 @@ p {
 .ampMissColor {
   background-color: #8ea876;
 }
+.invisibleButton {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+}
 .foulColor {
   background-color: #005d8b;
 }
