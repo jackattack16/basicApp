@@ -25,7 +25,7 @@ button {
   font-size: 100%;
   font-family: inherit;
   box-shadow: 0px 0px 10px black;
-  font-size: 2.5vw;
+  font-size: 2.5vh;
   text-overflow: clip;
 }
 textarea {
@@ -36,7 +36,7 @@ textarea {
   border: 3px solid white;
   color: white;
   text-align: left;
-  font-size: 1.5vw;
+  font-size: 1.5vh;
 }
 tr {
 
@@ -71,12 +71,12 @@ tr {
 .coments {
   height: 12vh;
   width: 30vw;
-  font-size:2vw;
+  font-size:2vh;
   background-color: rgba(0, 0, 0, 0.5);
 }
 .termnialEndgame {
   height: 45vh;
-  font-size:2vw;
+  font-size:2vh;
 }
 .headerImg {
   height: 100%;
@@ -130,7 +130,7 @@ tr {
   backdrop-filter: blur(15px);
   background-color: rgba(255, 0, 0, 0.5);
   color: white;
-  font-size: 3vw;
+  font-size: 3vh;
 }
 .termnial {
   height: 27vw;
@@ -141,10 +141,10 @@ tr {
   border: 3px solid white;
   text-align: left;
   color: white;
-  font-size: 1.5vw;
+  font-size: 1.5vh;
   scrollbar-width: thin;
   scrollbar-color: white rgba(0, 0, 0, 0.2);
-  font-size:2vw;
+  font-size:2vh;
   line-height: 1.51vw;
 }
 
@@ -155,14 +155,14 @@ tr {
   border: 3px solid white;
   color: white;
   text-align: center;
-  font-size: 3vw;
+  font-size: 3vh;
 }
 .infoBox {
   background-color: rgba(0, 0, 0, 0.5);
 }
 .header {
   color: white;
-  font-size: 15vw;
+  font-size: 15vh;
   text-shadow: 0px 0px 50px black;
 }
 .allianceOfTheRedColour {
@@ -182,7 +182,7 @@ tr {
 }
 .backForth {
   text-align: center;
-  font-size: 5vw;
+  font-size: 5vh;
   height: 11vh;
   width: 13vw;
 }
@@ -226,12 +226,12 @@ p {
   color: white;
   margin: auto;
   background: rgba(46, 46, 46, 0.2);
-  -webkit-backdrop-filter: blur(10vw);
-  backdrop-filter: blur(5vw);
-  box-shadow: 0px 0px 10vw black;
+  -webkit-backdrop-filter: blur(10vh);
+  backdrop-filter: blur(5vh);
+  box-shadow: 0px 0px 10vh black;
   font-size: 4em;
   border-radius: 1em;
-  text-shadow: 0px 0px 2vw white;
+  text-shadow: 0px 0px 2vh white;
   transform: scale(0.9);
   opacity: 0;
 }
